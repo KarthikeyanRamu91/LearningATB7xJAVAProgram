@@ -3,7 +3,7 @@
 Author - Karthikeyan
 
 This Repo contains the source code for the
-Exercise that we have done in the ATB7x batch
+exercise that we have done in the ATB7x batch
 
 - Core JAVA
 - OOPs
